@@ -292,7 +292,7 @@ DEPENDENCIES
   active_storage_validations (= 0.8.9)
   aws-sdk-s3 (= 1.87.0)
   bcrypt (= 3.1.13)
-  bootsnap (= 1.7.2)
+  bootsnap
   bootstrap-sass (= 3.4.1)
   bootstrap-will_paginate (= 1.0.0)
   byebug (= 11.1.3)
