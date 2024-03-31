@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '3.0.6'
-gem 'rexml'
+
+gem 'rexml', '~> 3.2', '>= 3.2.4'
 gem 'rails',                      '6.1.4.6'
 gem 'image_processing',           '1.9.3'
 gem 'mini_magick',                '4.9.5'
