@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rideshare-umass.git
+   git clone https://github.com/aarinmehta/Rideshare-UMass.git
    ```
 2. Navigate into the project directory:
    ```bash
